@@ -1,4 +1,4 @@
-﻿README
+README
 ====
 
 ## ecDB and PartsBox
